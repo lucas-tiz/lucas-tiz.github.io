@@ -1,5 +1,5 @@
 # main links links
-# main:
+main:
 #   - title: "Publications"
 #     url: /publications/
 
@@ -15,8 +15,8 @@
 #   - title: "Blog Posts"
 #     url: /year-archive/
     
-#   - title: "CV"
-#     url: /cv/
+  - title: "CV"
+    url: /files/lucas-tiziani-cv.pdf
     
 #   - title: "Guide"
 #     url: /markdown/
